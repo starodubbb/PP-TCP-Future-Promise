@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ParalCompLab4Client/1.0.0": {
+        "runtime": {
+          "ParalCompLab4Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParalCompLab4Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

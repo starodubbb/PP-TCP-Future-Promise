@@ -1,0 +1,14 @@
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\bin\Debug\net7.0\ParalCompLab4Server.exe
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\bin\Debug\net7.0\ParalCompLab4Server.deps.json
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\bin\Debug\net7.0\ParalCompLab4Server.runtimeconfig.json
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\bin\Debug\net7.0\ParalCompLab4Server.dll
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\bin\Debug\net7.0\ParalCompLab4Server.pdb
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\obj\Debug\net7.0\ParalCompLab4Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\obj\Debug\net7.0\ParalCompLab4Server.AssemblyInfoInputs.cache
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\obj\Debug\net7.0\ParalCompLab4Server.AssemblyInfo.cs
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\obj\Debug\net7.0\ParalCompLab4Server.csproj.CoreCompileInputs.cache
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\obj\Debug\net7.0\ParalCompLab4Server.dll
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\obj\Debug\net7.0\refint\ParalCompLab4Server.dll
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\obj\Debug\net7.0\ParalCompLab4Server.pdb
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\obj\Debug\net7.0\ParalCompLab4Server.genruntimeconfig.cache
+D:\projects\C#VisualStudioProjects\ParalCompLab4Server\ParalCompLab4Server\obj\Debug\net7.0\ref\ParalCompLab4Server.dll

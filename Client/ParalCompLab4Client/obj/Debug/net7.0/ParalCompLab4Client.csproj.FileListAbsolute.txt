@@ -1,0 +1,15 @@
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\bin\Debug\net7.0\ParalCompLab4Client.exe
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\bin\Debug\net7.0\ParalCompLab4Client.deps.json
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\bin\Debug\net7.0\ParalCompLab4Client.runtimeconfig.json
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\bin\Debug\net7.0\ParalCompLab4Client.dll
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\bin\Debug\net7.0\ParalCompLab4Client.pdb
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\ParalCompLab4Client.csproj.AssemblyReference.cache
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\ParalCompLab4Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\ParalCompLab4Client.AssemblyInfoInputs.cache
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\ParalCompLab4Client.AssemblyInfo.cs
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\ParalCompLab4Client.csproj.CoreCompileInputs.cache
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\ParalCompLab4Client.dll
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\refint\ParalCompLab4Client.dll
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\ParalCompLab4Client.pdb
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\ParalCompLab4Client.genruntimeconfig.cache
+C:\Users\starodubbb\source\repos\ParalCompLab4Client\ParalCompLab4Client\obj\Debug\net7.0\ref\ParalCompLab4Client.dll
